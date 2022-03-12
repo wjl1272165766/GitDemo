@@ -13,4 +13,5 @@ hello atguigu! hello git! hot-fix test
 linghuchong666666666666666666666666666
 newnewnewnewnewnewnewnewnewnewnenwnew
 dongfangbubai news
+厉害厉害厉害
 >>>>>>> hot-fix
