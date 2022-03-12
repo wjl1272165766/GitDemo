@@ -12,4 +12,5 @@ hello atguigu! hello git! hot-fix test
 33333333333333333333333333333333333333
 linghuchong666666666666666666666666666
 newnewnewnewnewnewnewnewnewnewnenwnew
+
 >>>>>>> hot-fix
